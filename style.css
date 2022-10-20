@@ -1,0 +1,74 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://cdn.discordapp.com/attachments/822171175123812366/1018123088270995476/unknown.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: red;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: red;
+  margin-top: 5px;
+}
+
+#imagem {
+  display: flex;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+body > img {
+  margin: 0 30px;
+}
+
+img {
+  max-height: 150px;
+  padding: 10px;
+  border-radius: 20px;
+  transition: 1s all;
+}
+
+img:hover {
+  transition: 1s all;
+  transform: scale(1.2);
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 18px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: #da1e26;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+figcaption {
+  color: #ffffff;
+  padding: 5px 10px;
+  font-weight: bold;
+  font-size: 16px;
+  position: center;
+}
