@@ -1,4 +1,17 @@
-# NerdFlix
+List creation and thumbnails view of the best tech channels on YouTube.
 
-Creating a list and displaying thumbnails of the best tech channels on YouTube. Repetition of Lists (Iteration of ARRAYS). 
--Functions. - Array (list) where the first index of a list is ALWAYS 0 . -for ( ) { } : JS command for list repetition. -Loop : main structure that determines if it is executable or not. - Iteration of Arrays = JS Repetition Structure | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | - Use of Functions to integrate HTML and JS.
+Repetition of Lists (Iteration of ARRAYS).
+
+-Functions.
+
+- Array (list) where the first index of a list is ALWAYS 0 .
+
+-for ( ) { } : JS command for list repetition.
+
+-Loop : main structure that determines if it is executable or not.
+
+- Iteration of Arrays = JS Repetition Structure
+
+| var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
+
+- Use of Functions to integrate HTML and JS.
