@@ -1,11 +1,11 @@
-List creation and thumbnails view of the best tech channels on YouTube.
+📺 List creation and thumbnails view of the best tech channels on YouTube.
 
 < made with love & joy />
 
 
 SPECS:
 
-Repetition of Lists (Iteration of ARRAYS).
+-Repetition of Lists (Iteration of ARRAYS).
 
 -Functions.
 
