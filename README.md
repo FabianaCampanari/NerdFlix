@@ -5,6 +5,12 @@
 🤎 < made with love & joy />
 
 
+![NerdFlix](https://user-images.githubusercontent.com/113218619/201764410-bac33e4b-bfb4-4009-9756-a669b1cd4e07.png)
+
+
+
+
+
 
 📌 SPECS:
 
