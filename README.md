@@ -2,7 +2,7 @@
 
 ✨ A collection of the best YouTube channels for nerds.
 
-🤎 < made with love & joy />
+< made with love & joy /> 🤎
 
 ____________________________________________________________________________________________________________________
 
