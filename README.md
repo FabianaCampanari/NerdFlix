@@ -1,4 +1,4 @@
-📺 NerdFlix
+# 📺 NerdFlix
 
 ✨ A collection of the best YouTube channels for nerds.
 
