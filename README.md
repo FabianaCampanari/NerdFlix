@@ -1,6 +1,6 @@
 #  <p align="center"> 📺  NerdFlix </p>
 
-<p align="center"> ✨ A collection of the best YouTube channels for nerds. </p>
+<p align="center"> ✨ A Collection of the best YouTube channels for nerds. </p>
 
 <p align="center"> < made with love & joy /> 🤎 </p>
 
