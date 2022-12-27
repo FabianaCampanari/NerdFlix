@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 <p align="center"> ⚖︎ This project is licensed under the FABIANA CAMPANARI license
 
-Copyright (c) 2022 Fabiana Campanari.
+<p align="center"> Copyright (c) 2022 Fabiana Campanari.
 
 
 
