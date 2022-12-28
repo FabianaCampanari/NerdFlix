@@ -17,9 +17,9 @@
 
 📌 SPECS:
 
-💫 Repetition of Lists ( Iteration of ARRAYS ).
+ ✨ Repetition of Lists ( Iteration of ARRAYS ).
 
-💫 Functions:
+✨ Functions:
 
 ✨ Array (list) where the first index of a list is ALWAYS 0 .
 
