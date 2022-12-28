@@ -14,7 +14,7 @@
 🚀 https://fabianacampanari.github.io/NerdFlix/
 
 #
-_______________________________
+_________________________
 📌 SPECS:
 
 💫 Repetition of Lists ( Iteration of ARRAYS ).
