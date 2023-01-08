@@ -15,7 +15,7 @@
 
 #
 
-<p align="center"> 📌 SPECS:
+<p align="center"> 📌 SPECS: </p>
 
  ✨ Repetition of Lists ( Iteration of ARRAYS ).
 
