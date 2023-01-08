@@ -11,7 +11,7 @@
 
   #
   
-<p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ < /p>
+<p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ </p>
 
 #
 
