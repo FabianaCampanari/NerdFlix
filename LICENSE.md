@@ -5,7 +5,6 @@ Copyright (c) 2022 Fabiana Campanari.
 Todos os direitos Resevados (c) 2022 Fabiana Campanari.
 
 
-
  -  Conditions:
 
 1. Redistributions of source code must retain the above copyright notice, this
