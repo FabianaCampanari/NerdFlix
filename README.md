@@ -37,7 +37,7 @@
 
 _______________________________________________________________________
 
-<p align="center">  ⚖︎ This project is licensed under the FABIANA  license. </p>
+<p align="center">  ⚖︎ This project is licensed under the  license. </p>
 
 <p align="center"> Copyright (c) 2022 Fabiana Campanari. </p>
 
