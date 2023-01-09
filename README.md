@@ -9,6 +9,9 @@
 <p align="center">
 <img src="" />
 
+![NERDFLIX](https://user-images.githubusercontent.com/113218619/211395348-566ae4bb-2274-40ff-8a22-81ebd4e258cb.png)
+
+
 #
   
 <p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ </p>
