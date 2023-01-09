@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/211395348-566ae4bb-2274-40ff-8a22-81ebd4e258cb.png" />
 
-![NERDFLIX]()
+![NER
 
 
 #
