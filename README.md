@@ -34,7 +34,7 @@
 ✨ Use of Functions to integrate HTML and JS.
 
 #
-___________________________________________________________
+__________________________________________________________
 
 
 <p align="center">  ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
