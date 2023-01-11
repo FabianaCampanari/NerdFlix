@@ -8,7 +8,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 <p align="center">
 
-<img src="http" />
+<img src="" />
 
 #
   
