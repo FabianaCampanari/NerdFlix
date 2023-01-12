@@ -21,7 +21,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 <p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS ). </p>
 
-<p align="center"> ✨ Functions:
+✨ Functions:
 
 ✨ Array (list) where the first index of a list is ALWAYS 0 .
 
