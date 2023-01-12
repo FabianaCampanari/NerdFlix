@@ -19,7 +19,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 <p align="center"> 📌 SPECS: </p>
 
-✨ Repetition of Lists ( Iteration of ARRAYS ). </p>
+✨ Repetition of Lists ( Iteration of ARRAYS ). 
 
 ✨ Functions:
 
