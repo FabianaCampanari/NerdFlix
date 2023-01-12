@@ -23,7 +23,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 <p align="center"> ✨ Functions:
 
-<p align="center"> ✨ Array (list) where the first index of a list is ALWAYS 0 .
+✨ Array (list) where the first index of a list is ALWAYS 0 .
 
 ✨ for ( ) { } : JS command for list repetition.
 
