@@ -27,7 +27,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 <p align-"center"> ✨ for ( ) { } : JS command for list repetition.
 
-✨ Loop : main structure that determines if it is executable or not.
+<p align="center"> ✨ Loop : main structure that determines if it is executable or not.
 
 ✨ Iteration of Arrays = JS Repetition Structure
 
