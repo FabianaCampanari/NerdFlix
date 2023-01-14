@@ -36,7 +36,7 @@ NerdFlix thumb#  <p align="center"> 📺  NerdFlix </p>
 
 #
 
-_____________
+____________
 
 <p align="center">  ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
 
