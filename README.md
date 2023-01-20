@@ -13,6 +13,8 @@
   
 <p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ </p>
 
+![NerdFlix Thumb](https://user-images.githubusercontent.com/113218619/213720847-a51d1f53-d1ad-460b-9509-4b9d1e9ab65e.png)
+
 #
 
 <p align="center"> 📌 SPECS: </p>
