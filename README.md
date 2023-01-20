@@ -7,8 +7,7 @@
 #
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113218619/212492272-65951257-e082-40fb-a675-80b05c68c4c3.png" />
-</p>
+
 
 #
   
