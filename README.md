@@ -20,7 +20,7 @@
 
 <p align="center"> 📌 SPECS: </p>
 
-✨ Repetition of Lists ( Iteration of ARRAYS ). 
+<p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS ). 
 
 ✨ Functions:
 
