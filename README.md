@@ -19,7 +19,7 @@
 
 <h1 align="center">
   
-<p align="center"> 📌 SPECS: </p>
+ 📌 SPECS: </p>
 
 <p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS )
 
@@ -38,6 +38,7 @@
 <p align="center"> ✨ Use of Functions to integrate HTML and JS
 
 </h1>
+
 #
 
 
