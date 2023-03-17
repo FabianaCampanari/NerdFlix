@@ -24,7 +24,7 @@
 
 <p align="center"> ✨ Functions ↓
 
-<p align="center"> ✨ Array (list) where the first index of a list is ALWAYS 0 .
+<p align="center"> ✨ Array (list) where the first index of a list is ALWAYS 0 
 
 <p align="center"> ✨ for ( ) { } : JS command for list repetition.
 
