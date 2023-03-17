@@ -1,3 +1,11 @@
+<h1 align="center">  
+    
+       🎨 I DO DESIGN & CODE 
+    
+       < with love & joy /> 🤎 
+    
+</h1>
+
 # <p align="center"> 📺  NerdFlix </p>
 
 <p align="center"> ✨ A Collection of The Best YouTube Channels for Nerds. </p>
