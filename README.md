@@ -16,10 +16,8 @@
 <p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ </p>
 
 #
-
-<h1 align="center">
-  
- 📌 SPECS: </p>
+ 
+ align="center" 📌 SPECS: </p>
 
 <p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS )
 
@@ -37,10 +35,7 @@
 
 <p align="center"> ✨ Use of Functions to integrate HTML and JS
 
-</h1>
-
 #
-
 
 <p align="center">  ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
 
