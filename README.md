@@ -28,7 +28,7 @@
 
 <p align="center"> ✨ for ( ) { } : JS command for list repetition.
 
-<p align="center"> ✨ Loop : main structure that determines if it is executable or not.
+<p align="center"> ✨ Loop : main structure that determines if it is executable or not
 
 <p align="center"> ✨ Iteration of Arrays = JS Repetition Structure
 
