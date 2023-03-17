@@ -22,7 +22,7 @@
 
 <p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS )
 
-✨ Functions:
+<p align="center"> ✨ Functions:
 
 ✨ Array (list) where the first index of a list is ALWAYS 0 .
 
