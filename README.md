@@ -2,7 +2,7 @@
 
 <p align="center"> ✨ A Collection of The Best YouTube Channels for Nerds. </p>
 
-<p align="center"> < made with love & joy /> 🤎 </p>
+<p align="center"> < made with love & joy /> 🧡 </p>
 
 #
 
@@ -10,7 +10,6 @@
 
   <img src="https://user-images.githubusercontent.com/113218619/226062306-29584c23-eee9-4c51-9e15-d1364eed1a2a.png" /> 
   
-
 #
   
 <p align="center"> 🚀 https://fabianacampanari.github.io/NerdFlix/ </p>
