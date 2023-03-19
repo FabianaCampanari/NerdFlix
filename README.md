@@ -26,7 +26,7 @@
 
 <p align="center"> ✨ Array (list) where the first index of a list is ALWAYS 0 </p>
 
-<p align="center"> ✨ for ( ) { } : JS command for list repetition </p>
+<p align="center"> ✨ for ( ) { } : JS command for list repetition 
 
 <p align="center"> ✨ Loop : main structure that determines if it is executable or not 
 
