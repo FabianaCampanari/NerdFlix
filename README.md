@@ -30,7 +30,7 @@
 
 <p align="center"> ✨ Loop : main structure that determines if it is executable or not </p>
 
-<p align="center"> ✨ Iteration of Arrays = JS Repetition Structure 
+<p align="center"> ✨ Iteration of Arrays = JS Repetition Structure </p>
 
 <p align="center"> ✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | 
 
