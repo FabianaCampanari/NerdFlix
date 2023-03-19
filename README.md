@@ -34,7 +34,7 @@
 
 <p align="center"> ✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | </p>
 
-<p align="center"> ✨ Use of Functions to integrate HTML and JS
+<p align="center"> ✨ Use of Functions to integrate HTML and JS </p>
 
 #
 
