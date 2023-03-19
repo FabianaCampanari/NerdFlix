@@ -32,7 +32,7 @@
 
 <p align="center"> ✨ Iteration of Arrays = JS Repetition Structure </p>
 
-<p align="center"> ✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | </p>
+<p align="center"> ✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | 
 
 <p align="center"> ✨ Use of Functions to integrate HTML and JS
 
