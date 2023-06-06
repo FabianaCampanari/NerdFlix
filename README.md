@@ -20,21 +20,21 @@
  
 <p align="center"> 📌 SPECS: </p>
 
-<p align="center"> ✨ Repetition of Lists ( Iteration of ARRAYS ) </p>
+✨ Repetition of Lists ( Iteration of ARRAYS ) </p>
 
-<p align="center"> ✨ Functions ↓ </p>
+✨ Functions ↓ </p>
 
-<p align="center"> ✨ Array (list) where the first index of a list is ALWAYS 0 </p>
+✨ Array (list) where the first index of a list is ALWAYS 0 </p>
 
-<p align="center"> ✨ for ( ) { } : JS command for list repetition </p>
+✨ for ( ) { } : JS command for list repetition </p>
 
-<p align="center"> ✨ Loop : main structure that determines if it is executable or not </p>
+✨ Loop : main structure that determines if it is executable or not </p>
 
-<p align="center"> ✨ Iteration of Arrays = JS Repetition Structure </p>
+✨ Iteration of Arrays = JS Repetition Structure </p>
 
-<p align="center"> ✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | </p>
+✨ ⇢ | var i | var i < | i++ | = | beginning | condition | end (loop iteration) | </p>
 
-<p align="center"> ✨ Use of Functions to integrate HTML and JS </p>
+✨ Use of Functions to integrate HTML and JS </p>
 
 #
 
