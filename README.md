@@ -39,7 +39,7 @@
 #
 
 
- ### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the  AGPL-3.0 license.](https://github.com/FabianaCampanari/NerdFlix/blob/b98cfb2cb20d928bf998d4c9b966f2b25000144f/LICENSE)
+ ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the  AGPL-3.0 license.](https://github.com/FabianaCampanari/NerdFlix/blob/b98cfb2cb20d928bf998d4c9b966f2b25000144f/LICENSE)
 
  
 
