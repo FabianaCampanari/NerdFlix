@@ -23,10 +23,15 @@ const listaYT = [
   "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/ytc/AMLnZu8ecQorMO_sToYiqZJynYBeaz0Xa_HK-Z6UA4aO=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu_2b9piwsef9cub_jjHPcMNw8JNAXNKmf3kQpSB=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu9ZwnwHt4DaY03iQD1mALpJKFPbMBiilsc1KRCV5g=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu_B2N15Iv2b8IYDYcrjkXScMam9LGnVyfadI_Fu1ok=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/z0Ccoolotr1Q4F2EaCIgaR4GWLAR_VCwP25QrTica_e9XV6x8-kuQx_qnqI1mnaOkYl6KkIL=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj",
