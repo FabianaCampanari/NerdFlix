@@ -1,13 +1,17 @@
 // Para funcionar corretanente, antes de ".jpg" deve estar escrito: "maxresdefault", para que a thumbnail entre com sua resolução maxíma e fique bonitinho ^w^.
 const listaYT = [
   "https://yt3.ggpht.com/ytc/AMLnZu9fwc9E-G17B2vMnbYzZBp_NYs4AmCE802y8x08=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu_3V_iTCz3_20NZc0_WypBbS1AK3QsBkJF001k8SQ=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu8zAmF1BDo7p8K9xw_3tr0J8fEdWbbq64ykTRSTpg=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/ytc/AMLnZu8lUVeJ1TiYevFOzZPNQFEQSDHc-TwiYKMcQpxpvA=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/ytc/AMLnZu9XCumF881WgJ5yEIZp7BWuImKNC9T-IwVUEGeXyg=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu_8E2fVaNH2D20xn32ph9axohUCgWaLpXO_tXJ14g=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/ytc/AMLnZu-UQrGbrHx7sH0Ea0SrUlMQ_HYQcwkQh2gL1w3JkQ=s88-c-k-c0x00ffffff-no-rj",
@@ -43,7 +47,9 @@ const listaYT = [
   "https://yt3.ggpht.com/ytc/AMLnZu-50eV3fK6unoZyi0yLMWnAo-NIRRy1PMTPUen8=s88-c-k-c0x00ffffff-no-rj",
 
   "https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu9UJxaTaTBMLMbZA1s14YCYhFkZjXGHTU8pD5M5=s88-c-k-c0x00ffffff-no-rj",
+  
   "https://yt3.ggpht.com/ytc/AMLnZu9WFZ1kTBuy0mo3cVlo17QFXNT_55y2W_QMoRWLFw=s88-c-k-c0x00ffffff-no-rj"
 ];
 
