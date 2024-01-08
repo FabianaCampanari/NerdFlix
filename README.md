@@ -16,10 +16,10 @@ This project is your ultimate geek-out destination, featuring a curated list of 
 ### <p align="center"> [Click here to launch Nerdflix!](https://fabianacampanari.github.io/NerdFlix/) </p>
 
 #### <p align="center"> ***< made with vibe, frequency & joy />*** 🪬</p> 
- 
-
 
 #
+
+<br>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/226062306-29584c23-eee9-4c51-9e15-d1364eed1a2a.png" /> 
