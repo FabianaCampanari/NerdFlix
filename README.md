@@ -12,7 +12,7 @@ This project is your ultimate geek-out destination, featuring a curated list of 
 
 <br>
 
-Click here to launch Nerdflix!
+<p align="center"> Click here to launch Nerdflix! </p>
 
 <br>
 
