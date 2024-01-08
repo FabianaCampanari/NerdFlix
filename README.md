@@ -15,11 +15,7 @@ This project is your ultimate geek-out destination, featuring a curated list of 
 
 ### <p align="center"> [Click here to launch Nerdflix!](https://fabianacampanari.github.io/NerdFlix/) </p>
 
-<br>
-
-
-
- ##### <p align="center"> ***< made with vibe, frequency & joy />*** 🪬</p> 
+#### <p align="center"> ***< made with vibe, frequency & joy />*** 🪬</p> 
  
 
 
