@@ -5,7 +5,7 @@
 # <p align="center"> 📺  NerdFlix - A Collection of The Best YouTube Channels for Nerds. </p>
 <br>
 
-<p align="center">  A Collection of The Best YouTube Channels for Nerds. </p>
+### <p align="center">  A Collection of The Best YouTube Channels for Nerds. </p>
 
 
 
