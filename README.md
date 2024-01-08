@@ -12,7 +12,6 @@
 
 This project is your ultimate geek-out destination, featuring a curated list of the coolest YouTube channels for nerds.From tech talks to DIY guides, we’ve got you covered. So, check this out and never stop learning ! 👇
 
-<br>
 
 ### <p align="center"> [Click here to launch Nerdflix!](https://fabianacampanari.github.io/NerdFlix/) </p>
 
