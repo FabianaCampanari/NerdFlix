@@ -12,7 +12,7 @@ This project is your ultimate geek-out destination, featuring a curated list of 
 
 <br>
 
-### <p align="center">  </p>
+### <p align="center"> [Click here to launch Nerdflix!](https://fabianacampanari.github.io/NerdFlix/) </p>
 
 <br>
 
