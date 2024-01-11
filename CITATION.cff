@@ -5,4 +5,7 @@ type: software
 authors:
   - given-names: Fabiana
     family-names: Campanari
+repository-code: https://github.com/FabianaCampanari
+license: MIT License
+
    
