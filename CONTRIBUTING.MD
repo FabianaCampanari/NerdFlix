@@ -22,5 +22,5 @@
 
 <p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
 
-🌎💙 One People.One World.One Spirit.We Are One!
+🌎One People. One World. One Spirit. We Are One!
 
