@@ -25,9 +25,10 @@ This project is your ultimate geek-out destination, featuring a curated list of 
  <img src="https://user-images.githubusercontent.com/113218619/226062306-29584c23-eee9-4c51-9e15-d1364eed1a2a.png" /> 
   </p>
 
-#
  
-<p align="center"> 📌 SPECS: </p>
+ 📌 SPECS: </p>
+
+ <br>
 
 ✨ Repetition of Lists ( Iteration of ARRAYS ) </p>
 
